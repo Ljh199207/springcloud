@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/service-bus/service-bus.iml" filepath="$PROJECT_DIR$/service-bus/service-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-config/service-config.iml" filepath="$PROJECT_DIR$/service-config/service-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi-1/service-hi-1.iml" filepath="$PROJECT_DIR$/service-hi-1/service-hi-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi-2/service-hi-2.iml" filepath="$PROJECT_DIR$/service-hi-2/service-hi-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hystrix/service-hystrix.iml" filepath="$PROJECT_DIR$/service-hystrix/service-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-sleuth/service-sleuth.iml" filepath="$PROJECT_DIR$/service-sleuth/service-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-stream/service-stream.iml" filepath="$PROJECT_DIR$/service-stream/service-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eureka/spring-eureka.iml" filepath="$PROJECT_DIR$/spring-eureka/spring-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>
