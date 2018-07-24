@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="config-client2" />
         <module name="service-bus" />
         <module name="service-config" />
+        <module name="service-config-ljh" />
         <module name="service-feign" />
         <module name="service-hi-1" />
         <module name="service-hi-2" />
@@ -20,9 +22,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="config-client2" target="1.8" />
       <module name="service-bus" target="1.8" />
       <module name="service-config" target="1.8" />
+      <module name="service-config-ljh" target="1.8" />
       <module name="service-feign" target="1.8" />
+      <module name="service-feign1" target="1.8" />
       <module name="service-hi-1" target="1.8" />
       <module name="service-hi-2" target="1.8" />
       <module name="service-hystrix" target="1.8" />

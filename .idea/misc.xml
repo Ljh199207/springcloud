@@ -13,6 +13,9 @@
         <option value="$PROJECT_DIR$/service-bus/pom.xml" />
         <option value="$PROJECT_DIR$/service-stream/pom.xml" />
         <option value="$PROJECT_DIR$/service-sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/service-config/pom.xml" />
+        <option value="$PROJECT_DIR$/service-config-ljh/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client2/pom.xml" />
       </list>
     </option>
   </component>

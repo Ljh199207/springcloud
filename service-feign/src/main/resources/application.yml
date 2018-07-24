@@ -7,3 +7,13 @@ server:
 spring:
   application:
     name: service-feign
+feign:
+  hystrix:
+    enabled: true
+hystrix:
+    command:
+        default:
+            execution:
+                isolation:
+                    thread:
+                        timeout-in-milliseconds: 3000

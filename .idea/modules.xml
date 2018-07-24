@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-client2/config-client2.iml" filepath="$PROJECT_DIR$/config-client2/config-client2.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-bus/service-bus.iml" filepath="$PROJECT_DIR$/service-bus/service-bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-config/service-config.iml" filepath="$PROJECT_DIR$/service-config/service-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-config-ljh/service-config-ljh.iml" filepath="$PROJECT_DIR$/service-config-ljh/service-config-ljh.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-hi-1/service-hi-1.iml" filepath="$PROJECT_DIR$/service-hi-1/service-hi-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-hi-2/service-hi-2.iml" filepath="$PROJECT_DIR$/service-hi-2/service-hi-2.iml" />
